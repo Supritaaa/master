@@ -280,3 +280,68 @@ git remote -v
 git status
 sudo
 sudo -i
+ls
+vi file1
+git add file1
+git pull origin main
+git push origin main
+git add file1
+git commit -m "1-1-2024"
+git add .
+git commit -m "1-1-2024"
+git push origin main
+vi file1
+cat file2
+vi file1
+git add file1
+git commit -m "New change"
+git restore file1
+git status
+git add .
+git commit -m "New change
+git restore file1
+clear
+git add .
+git commit -m "New change"
+git status
+git add .
+git commit -m "New chang"
+git add .
+git commit -m "New"
+git push origin main
+git status
+git add .
+git commit -m "New"
+git push origin main
+git status
+git add .
+git commit "mio"
+git commit -m "mio"
+git checkout --ours*
+git checkout --theirs*
+git pull origin main
+git status
+git restore file1
+git status
+git commit -a
+git add
+git add .
+git commit -a
+git add file1
+git restore file1
+git commit -m "msg"
+git restore dev/master
+git status
+git --staged dev/master
+git clean 
+git clean -i
+git clean -n
+git status
+vi file1
+ls
+cd master
+ls
+cat file1
+cd
+su -i
+su
