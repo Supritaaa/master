@@ -14,16 +14,16 @@
 $
 
 # Command Line History (newest to oldest):
+:wq
+|2,0,1704125840,,"wq"
 :q!
-|2,0,1704125144,,"q!"
+|2,0,1704125548,,"q!"
 :q1
 |2,0,1704120373,,"q1"
 :w!
 |2,0,1704119690,,"w!"
 :q
 |2,0,1704119678,,"q"
-:wq
-|2,0,1701610739,,"wq"
 
 # Search String History (newest to oldest):
 ??\a
@@ -73,28 +73,32 @@ $
 |3,0,36,2,1,13,1701053730,"sbin@         "
 
 # File marks:
-'0  1  65  ~/file1
-|4,48,1,65,1704125144,"~/file1"
-'1  1  58  ~/file1
-|4,49,1,58,1704122241,"~/file1"
-'2  1  58  ~/file1
-|4,50,1,58,1704120917,"~/file1"
-'3  1  58  ~/file1
-|4,51,1,58,1704120917,"~/file1"
-'4  1  59  ~/file1
-|4,52,1,59,1704120826,"~/file1"
-'5  1  59  ~/file1
-|4,53,1,59,1704120826,"~/file1"
-'6  1  59  ~/file1
-|4,54,1,59,1704120826,"~/file1"
-'7  1  59  ~/file1
-|4,55,1,59,1704120826,"~/file1"
-'8  1  66  ~/file1
-|4,56,1,66,1704120381,"~/file1"
-'9  1  66  ~/file1
-|4,57,1,66,1704120381,"~/file1"
+'0  1  66  ~/file1
+|4,48,1,66,1704125840,"~/file1"
+'1  1  60  ~/file1
+|4,49,1,60,1704125548,"~/file1"
+'2  1  65  ~/file1
+|4,50,1,65,1704125144,"~/file1"
+'3  1  65  ~/file1
+|4,51,1,65,1704125144,"~/file1"
+'4  1  58  ~/file1
+|4,52,1,58,1704122241,"~/file1"
+'5  1  58  ~/file1
+|4,53,1,58,1704122241,"~/file1"
+'6  1  58  ~/file1
+|4,54,1,58,1704122241,"~/file1"
+'7  1  58  ~/file1
+|4,55,1,58,1704122241,"~/file1"
+'8  1  58  ~/file1
+|4,56,1,58,1704120917,"~/file1"
+'9  1  58  ~/file1
+|4,57,1,58,1704120917,"~/file1"
 
 # Jumplist (newest first):
+-'  1  66  ~/file1
+|4,39,1,66,1704125840,"~/file1"
+-'  1  60  ~/file1
+|4,39,1,60,1704125548,"~/file1"
 -'  1  65  ~/file1
 |4,39,1,65,1704125144,"~/file1"
 -'  1  58  ~/file1
@@ -235,75 +239,71 @@ $
 |4,39,1,40,1704119701,"~/master/file1"
 -'  1  40  ~/master/file1
 |4,39,1,40,1704119701,"~/master/file1"
--'  1  39  ~/master/file1
-|4,39,1,39,1704119213,"~/master/file1"
--'  1  39  ~/master/file1
-|4,39,1,39,1704119213,"~/master/file1"
--'  1  39  ~/master/file1
-|4,39,1,39,1704119213,"~/master/file1"
--'  1  39  ~/master/file1
-|4,39,1,39,1704119213,"~/master/file1"
--'  1  39  ~/master/file1
-|4,39,1,39,1704119213,"~/master/file1"
--'  1  39  ~/master/file1
-|4,39,1,39,1704119213,"~/master/file1"
--'  1  39  ~/master/file1
-|4,39,1,39,1704119213,"~/master/file1"
--'  1  39  ~/master/file1
-|4,39,1,39,1704119213,"~/master/file1"
--'  1  39  ~/master/file1
-|4,39,1,39,1704119213,"~/master/file1"
--'  1  39  ~/master/file1
-|4,39,1,39,1704119213,"~/master/file1"
--'  1  39  ~/master/file1
-|4,39,1,39,1704119213,"~/master/file1"
--'  1  39  ~/master/file1
-|4,39,1,39,1704119213,"~/master/file1"
--'  1  39  ~/master/file1
-|4,39,1,39,1704119213,"~/master/file1"
--'  1  39  ~/master/file1
-|4,39,1,39,1704119213,"~/master/file1"
--'  1  39  ~/master/file1
-|4,39,1,39,1704119213,"~/master/file1"
--'  1  39  ~/master/file1
-|4,39,1,39,1704119213,"~/master/file1"
--'  1  39  ~/master/file1
-|4,39,1,39,1704119213,"~/master/file1"
--'  1  39  ~/master/file1
-|4,39,1,39,1704119213,"~/master/file1"
--'  1  39  ~/master/file1
-|4,39,1,39,1704119213,"~/master/file1"
--'  1  39  ~/master/file1
-|4,39,1,39,1704119213,"~/master/file1"
--'  1  39  ~/master/file1
-|4,39,1,39,1704119213,"~/master/file1"
--'  1  39  ~/master/file1
-|4,39,1,39,1704119213,"~/master/file1"
--'  1  39  ~/master/file1
-|4,39,1,39,1704119213,"~/master/file1"
--'  1  39  ~/master/file1
-|4,39,1,39,1704119213,"~/master/file1"
--'  1  39  ~/master/file1
-|4,39,1,39,1704119213,"~/master/file1"
--'  1  39  ~/master/file1
-|4,39,1,39,1704119213,"~/master/file1"
--'  1  39  ~/master/file1
-|4,39,1,39,1704119213,"~/master/file1"
--'  1  39  ~/master/file1
-|4,39,1,39,1704119213,"~/master/file1"
--'  1  39  ~/master/file1
-|4,39,1,39,1704119213,"~/master/file1"
--'  1  39  ~/master/file1
-|4,39,1,39,1704119213,"~/master/file1"
+-'  1  40  ~/master/file1
+|4,39,1,40,1704119701,"~/master/file1"
+-'  1  40  ~/master/file1
+|4,39,1,40,1704119701,"~/master/file1"
+-'  1  40  ~/master/file1
+|4,39,1,40,1704119701,"~/master/file1"
+-'  1  40  ~/master/file1
+|4,39,1,40,1704119701,"~/master/file1"
+-'  1  40  ~/master/file1
+|4,39,1,40,1704119701,"~/master/file1"
+-'  1  40  ~/master/file1
+|4,39,1,40,1704119701,"~/master/file1"
+-'  1  40  ~/master/file1
+|4,39,1,40,1704119701,"~/master/file1"
+-'  1  40  ~/master/file1
+|4,39,1,40,1704119701,"~/master/file1"
+-'  1  40  ~/master/file1
+|4,39,1,40,1704119701,"~/master/file1"
+-'  1  40  ~/master/file1
+|4,39,1,40,1704119701,"~/master/file1"
+-'  1  40  ~/master/file1
+|4,39,1,40,1704119701,"~/master/file1"
+-'  1  40  ~/master/file1
+|4,39,1,40,1704119701,"~/master/file1"
+-'  1  40  ~/master/file1
+|4,39,1,40,1704119701,"~/master/file1"
+-'  1  40  ~/master/file1
+|4,39,1,40,1704119701,"~/master/file1"
+-'  1  40  ~/master/file1
+|4,39,1,40,1704119701,"~/master/file1"
+-'  1  40  ~/master/file1
+|4,39,1,40,1704119701,"~/master/file1"
+-'  1  40  ~/master/file1
+|4,39,1,40,1704119701,"~/master/file1"
+-'  1  40  ~/master/file1
+|4,39,1,40,1704119701,"~/master/file1"
+-'  1  40  ~/master/file1
+|4,39,1,40,1704119701,"~/master/file1"
+-'  1  40  ~/master/file1
+|4,39,1,40,1704119701,"~/master/file1"
+-'  1  40  ~/master/file1
+|4,39,1,40,1704119701,"~/master/file1"
+-'  1  40  ~/master/file1
+|4,39,1,40,1704119701,"~/master/file1"
+-'  1  40  ~/master/file1
+|4,39,1,40,1704119701,"~/master/file1"
+-'  1  40  ~/master/file1
+|4,39,1,40,1704119701,"~/master/file1"
+-'  1  40  ~/master/file1
+|4,39,1,40,1704119701,"~/master/file1"
+-'  1  40  ~/master/file1
+|4,39,1,40,1704119701,"~/master/file1"
+-'  1  40  ~/master/file1
+|4,39,1,40,1704119701,"~/master/file1"
+-'  1  40  ~/master/file1
+|4,39,1,40,1704119701,"~/master/file1"
 
 # History of marks within files (newest to oldest):
 
 > ~/file1
-	*	1704125137	0
-	"	1	65
-	^	1	66
-	.	1	65
-	+	1	65
+	*	1704125833	0
+	"	1	66
+	^	1	67
+	.	1	66
+	+	1	66
 
 > ~/master/file1
 	*	1704119694	0
